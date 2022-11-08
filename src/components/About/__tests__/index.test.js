@@ -13,5 +13,6 @@ describe('About component', () => {
     // Second Test
     it('matches snaapshot DOM node structure', () => {
         const { asFragment } = render(<About />);
+
     })
 })
